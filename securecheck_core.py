@@ -1,5 +1,6 @@
 ﻿import string
 
+
 def calculer_score(mot_de_passe):
     score = 0
 

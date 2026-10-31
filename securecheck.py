@@ -1,4 +1,5 @@
 ﻿import getpass
+
 from securecheck_core import calculer_score, evaluer_score
 
 print("================================")
